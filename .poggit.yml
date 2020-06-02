@@ -1,6 +1,9 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PJZ9n/Validator-Support-Virion
 build-by-default: true
 branches:
-- master
-projects: []
+  - master
+projects:
+  Validator:
+    type: library
+    model: virion
 ...

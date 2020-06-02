@@ -1,0 +1,4 @@
+name: Validator
+version: 2.3.4
+antigen: Particle\Validator
+api: 3.0.0
